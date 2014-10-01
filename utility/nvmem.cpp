@@ -58,7 +58,7 @@
 
 #include "nvmem.h"
 #include "hci.h"
-#include "socket.h"
+#include "CC3000_socket.h"
 #include "evnt_handler.h"
 #include "debug.h"
 

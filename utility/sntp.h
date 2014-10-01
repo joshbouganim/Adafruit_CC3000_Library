@@ -272,8 +272,8 @@
 	#include "WProgram.h"
 #endif
 
-#include "utility/socket.h"
-#include "utility/netapp.h"
+#include "CC3000_socket.h"
+#include "netapp.h"
 
 //#define CLOCK_DEBUG
 //#define CLOCK_DEEP_DEBUG

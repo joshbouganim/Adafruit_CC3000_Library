@@ -52,7 +52,7 @@
  *
  *****************************************************************************/
 #include "cc3000_common.h"
-#include "socket.h"
+#include "CC3000_socket.h"
 #include "wlan.h"
 #include "evnt_handler.h"
 #include "debug.h"

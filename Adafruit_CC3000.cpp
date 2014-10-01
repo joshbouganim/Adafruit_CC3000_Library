@@ -29,7 +29,7 @@
 #include "utility/netapp.h"
 #include "utility/nvmem.h"
 #include "utility/security.h"
-#include "utility/socket.h"
+#include "utility/CC3000_socket.h"
 #include "utility/wlan.h"
 #include "utility/debug.h"
 #include "utility/sntp.h"

@@ -54,7 +54,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "hci.h"
-#include "socket.h"
+#include "CC3000_socket.h"
 #include "evnt_handler.h"
 #include "netapp.h"
 #include "debug.h"

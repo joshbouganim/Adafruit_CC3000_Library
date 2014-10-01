@@ -56,7 +56,7 @@
 #include "hci.h"
 #include "evnt_handler.h"
 #include "wlan.h"
-#include "socket.h"
+#include "CC3000_socket.h"
 #include "netapp.h"
 #include "../ccspi.h"
 #include "debug.h"

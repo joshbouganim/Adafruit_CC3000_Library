@@ -14,7 +14,7 @@
 /**************************************************************************/
 #include "Adafruit_CC3000_Server.h"
 
-#include "utility/socket.h"
+#include "utility/CC3000_socket.h"
 
 #define CC3K_PRINTLN_F(text) CHECK_PRINTER { if(CC3KPrinter != NULL) { CC3KPrinter->println(F(text)); } }
 

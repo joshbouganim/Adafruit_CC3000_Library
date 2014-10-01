@@ -1,6 +1,6 @@
 /*****************************************************************************
 *
-*  socket.h  - CC3000 Host Driver Implementation.
+*  CC3000_socket.h  - CC3000 Host Driver Implementation.
 *  Copyright (C) 2011 Texas Instruments Incorporated - http://www.ti.com/
 *
 * Adapted for use with the Arduino/AVR by KTOWN (Kevin Townsend) 
@@ -40,8 +40,8 @@
 *  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 *
 *****************************************************************************/
-#ifndef __SOCKET_H__
-#define __SOCKET_H__
+#ifndef __CC3000_SOCKET_H__
+#define __CC3000_SOCKET_H__
 
 #include "data_types.h"
 
